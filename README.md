@@ -44,7 +44,7 @@ Project Questions and Solutions
 •  Check if one matrix is a subset of another.
 
 
-- Answers: [Link to DL1](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_1_SaraYounesi)
+- Answers: [Link to DL1](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW1_98533053_Sara_Younesi)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" />  P2
 - 
@@ -76,7 +76,7 @@ Project Questions and Solutions
 4. MLP on MNIST Dataset
 •  Design an MLP for the MNIST dataset to achieve at least 95% accuracy. Explain the choice of layers and neurons, and plot the loss and accuracy using Matplotlib.
 
-- Answers: [Link to DL2](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_2_SaraYounesi)
+- Answers: [Link to DL2](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW2_98533053_Sara_Younesi)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P3
 Neural Network Exercises and Solutions
@@ -93,7 +93,7 @@ Project Questions and Solutions
 •  Design a Hopfield network to converge from the bit string 010000 to 111100. Provide the weight matrix and computation table.
 5. Traveling Salesman Problem (TSP)
 •  Discuss how the TSP can be solved using neural networks (Hopfield, SOM, MLP). Provide the algorithm, network structure, and other relevant details if solvable. If not, explain why.
-- Answers: [Link to DL3](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_3_SaraYounesi)
+- Answers: [Link to DL3](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW3_98533053_Sara_Younesi)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P4
 Fuzzy Logic and Neural Network Exercises
@@ -115,7 +115,7 @@ Project Questions and Solutions
 
 1. Defuzzification Methods
 •  Discuss the advantages and disadvantages of different defuzzification methods.
-- Answers: [Link to DL4](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_4_SaraYounesi)
+- Answers: [Link to DL4](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW4_98533053_Sara_Younesi)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P5
 Fuzzy Logic and Neural Network Exercises
@@ -151,7 +151,7 @@ Fuzzy Logic for Linguistic Variables
 
 •  b. If the first person is very thin, then the second person is relatively young.
 
-- Answers: [Link to DL5](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_5_SaraYounesi)
+- Answers: [Link to DL5](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW5_98533053_Sara_Younesi)
 
 ### <img width="40" height="40" src="https://img.icons8.com/?size=100&id=104091&format=png&color=000000" /> P6
 Fuzzy Logic and Neural Network Solutions
@@ -195,7 +195,7 @@ Genetic Algorithm for Root Finding
 
 •  Run the algorithm for a specified number of generations and analyze the results.
 
-- Answers: [Link to DL6](https://github.com/Sarayounesi/Deep-Learning-Projects/tree/main/DL_6_SaraYounesi)
+- Answers: [Link to DL6](https://github.com/Sarayounesi/Computational-Intelligence/tree/main/HW6_98533053_Sara_Younesi)
 
 
 
